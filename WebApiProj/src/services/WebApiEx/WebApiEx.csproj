@@ -4,4 +4,8 @@
         <TargetFramework>net6.0</TargetFramework>
     </PropertyGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\..\Infrastructure\BaseTypes\BaseTypes\BaseTypes.csproj" />
+    </ItemGroup>
+
 </Project>

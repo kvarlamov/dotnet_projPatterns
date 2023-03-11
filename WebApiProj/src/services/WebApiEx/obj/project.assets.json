@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "BaseTypes/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/BaseTypes.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BaseTypes.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "BaseTypes/1.0.0": {
+      "type": "project",
+      "path": "../../Infrastructure/BaseTypes/BaseTypes/BaseTypes.csproj",
+      "msbuildProject": "../../Infrastructure/BaseTypes/BaseTypes/BaseTypes.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "BaseTypes >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Constantine\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\IT\\Practice\\dotnet\\dotnet_projPatterns\\WebApiProj\\src\\Infrastructure\\BaseTypes\\BaseTypes\\BaseTypes.csproj": {
+              "projectPath": "C:\\IT\\Practice\\dotnet\\dotnet_projPatterns\\WebApiProj\\src\\Infrastructure\\BaseTypes\\BaseTypes\\BaseTypes.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
