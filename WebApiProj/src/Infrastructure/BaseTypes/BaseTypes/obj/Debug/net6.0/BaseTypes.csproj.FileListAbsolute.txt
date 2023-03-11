@@ -1,0 +1,12 @@
+C:\IT\Practice\dotnet\dotnet_projPatterns\WebApiProj\src\Infrastructure\BaseTypes\BaseTypes\bin\Debug\net6.0\BaseTypes.deps.json
+C:\IT\Practice\dotnet\dotnet_projPatterns\WebApiProj\src\Infrastructure\BaseTypes\BaseTypes\bin\Debug\net6.0\BaseTypes.dll
+C:\IT\Practice\dotnet\dotnet_projPatterns\WebApiProj\src\Infrastructure\BaseTypes\BaseTypes\bin\Debug\net6.0\BaseTypes.pdb
+C:\IT\Practice\dotnet\dotnet_projPatterns\WebApiProj\src\Infrastructure\BaseTypes\BaseTypes\obj\Debug\net6.0\BaseTypes.csproj.AssemblyReference.cache
+C:\IT\Practice\dotnet\dotnet_projPatterns\WebApiProj\src\Infrastructure\BaseTypes\BaseTypes\obj\Debug\net6.0\BaseTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\IT\Practice\dotnet\dotnet_projPatterns\WebApiProj\src\Infrastructure\BaseTypes\BaseTypes\obj\Debug\net6.0\BaseTypes.AssemblyInfoInputs.cache
+C:\IT\Practice\dotnet\dotnet_projPatterns\WebApiProj\src\Infrastructure\BaseTypes\BaseTypes\obj\Debug\net6.0\BaseTypes.AssemblyInfo.cs
+C:\IT\Practice\dotnet\dotnet_projPatterns\WebApiProj\src\Infrastructure\BaseTypes\BaseTypes\obj\Debug\net6.0\BaseTypes.csproj.CoreCompileInputs.cache
+C:\IT\Practice\dotnet\dotnet_projPatterns\WebApiProj\src\Infrastructure\BaseTypes\BaseTypes\obj\Debug\net6.0\BaseTypes.dll
+C:\IT\Practice\dotnet\dotnet_projPatterns\WebApiProj\src\Infrastructure\BaseTypes\BaseTypes\obj\Debug\net6.0\refint\BaseTypes.dll
+C:\IT\Practice\dotnet\dotnet_projPatterns\WebApiProj\src\Infrastructure\BaseTypes\BaseTypes\obj\Debug\net6.0\BaseTypes.pdb
+C:\IT\Practice\dotnet\dotnet_projPatterns\WebApiProj\src\Infrastructure\BaseTypes\BaseTypes\obj\Debug\net6.0\ref\BaseTypes.dll
