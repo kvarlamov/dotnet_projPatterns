@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CookieAuth", "CookieAuth\CookieAuth.csproj", "{141BF672-23B2-44CE-98C3-E61CF84F4FCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JwtAuth", "JwtAuth\JwtAuth.csproj", "{B57E9C6B-6663-440C-9B90-21EE0C9B75AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{141BF672-23B2-44CE-98C3-E61CF84F4FCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{141BF672-23B2-44CE-98C3-E61CF84F4FCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{141BF672-23B2-44CE-98C3-E61CF84F4FCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{141BF672-23B2-44CE-98C3-E61CF84F4FCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B57E9C6B-6663-440C-9B90-21EE0C9B75AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B57E9C6B-6663-440C-9B90-21EE0C9B75AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B57E9C6B-6663-440C-9B90-21EE0C9B75AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B57E9C6B-6663-440C-9B90-21EE0C9B75AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

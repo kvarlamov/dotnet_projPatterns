@@ -5,6 +5,7 @@
     </PropertyGroup>
 
     <ItemGroup>
+      <ProjectReference Include="..\..\Infrastructure\BaseTypes\BaseApi.Module\BaseApi.Module.csproj" />
       <ProjectReference Include="..\..\Infrastructure\BaseTypes\BaseTypes\BaseTypes.csproj" />
     </ItemGroup>
 

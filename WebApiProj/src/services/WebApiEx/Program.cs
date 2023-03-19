@@ -11,7 +11,6 @@ namespace WebApiEx
     {
         public static void Main(string[] args)
         {
-            //todo - change sdk to 6
             IHost host = CreateHostBuilder(args).Build();
             host.Run();
         }

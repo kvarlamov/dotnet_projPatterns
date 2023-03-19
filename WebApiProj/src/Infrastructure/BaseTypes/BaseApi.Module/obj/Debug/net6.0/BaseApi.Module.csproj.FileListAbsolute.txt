@@ -1,0 +1,17 @@
+C:\IT\Practice\dotnet\dotnet_projPatterns\WebApiProj\src\Infrastructure\BaseTypes\BaseApi.Module\bin\Debug\net6.0\BaseApi.Module.deps.json
+C:\IT\Practice\dotnet\dotnet_projPatterns\WebApiProj\src\Infrastructure\BaseTypes\BaseApi.Module\bin\Debug\net6.0\BaseApi.Module.dll
+C:\IT\Practice\dotnet\dotnet_projPatterns\WebApiProj\src\Infrastructure\BaseTypes\BaseApi.Module\bin\Debug\net6.0\BaseApi.Module.pdb
+C:\IT\Practice\dotnet\dotnet_projPatterns\WebApiProj\src\Infrastructure\BaseTypes\BaseApi.Module\bin\Debug\net6.0\BaseTypes.dll
+C:\IT\Practice\dotnet\dotnet_projPatterns\WebApiProj\src\Infrastructure\BaseTypes\BaseApi.Module\bin\Debug\net6.0\ConfigExtensions.dll
+C:\IT\Practice\dotnet\dotnet_projPatterns\WebApiProj\src\Infrastructure\BaseTypes\BaseApi.Module\bin\Debug\net6.0\ConfigExtensions.pdb
+C:\IT\Practice\dotnet\dotnet_projPatterns\WebApiProj\src\Infrastructure\BaseTypes\BaseApi.Module\bin\Debug\net6.0\BaseTypes.pdb
+C:\IT\Practice\dotnet\dotnet_projPatterns\WebApiProj\src\Infrastructure\BaseTypes\BaseApi.Module\obj\Debug\net6.0\BaseApi.Module.csproj.AssemblyReference.cache
+C:\IT\Practice\dotnet\dotnet_projPatterns\WebApiProj\src\Infrastructure\BaseTypes\BaseApi.Module\obj\Debug\net6.0\BaseApi.Module.GeneratedMSBuildEditorConfig.editorconfig
+C:\IT\Practice\dotnet\dotnet_projPatterns\WebApiProj\src\Infrastructure\BaseTypes\BaseApi.Module\obj\Debug\net6.0\BaseApi.Module.AssemblyInfoInputs.cache
+C:\IT\Practice\dotnet\dotnet_projPatterns\WebApiProj\src\Infrastructure\BaseTypes\BaseApi.Module\obj\Debug\net6.0\BaseApi.Module.AssemblyInfo.cs
+C:\IT\Practice\dotnet\dotnet_projPatterns\WebApiProj\src\Infrastructure\BaseTypes\BaseApi.Module\obj\Debug\net6.0\BaseApi.Module.csproj.CoreCompileInputs.cache
+C:\IT\Practice\dotnet\dotnet_projPatterns\WebApiProj\src\Infrastructure\BaseTypes\BaseApi.Module\obj\Debug\net6.0\BaseApi.Module.csproj.CopyComplete
+C:\IT\Practice\dotnet\dotnet_projPatterns\WebApiProj\src\Infrastructure\BaseTypes\BaseApi.Module\obj\Debug\net6.0\BaseApi.Module.dll
+C:\IT\Practice\dotnet\dotnet_projPatterns\WebApiProj\src\Infrastructure\BaseTypes\BaseApi.Module\obj\Debug\net6.0\refint\BaseApi.Module.dll
+C:\IT\Practice\dotnet\dotnet_projPatterns\WebApiProj\src\Infrastructure\BaseTypes\BaseApi.Module\obj\Debug\net6.0\BaseApi.Module.pdb
+C:\IT\Practice\dotnet\dotnet_projPatterns\WebApiProj\src\Infrastructure\BaseTypes\BaseApi.Module\obj\Debug\net6.0\ref\BaseApi.Module.dll
