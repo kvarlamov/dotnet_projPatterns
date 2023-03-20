@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\..\Infrastructure\BaseTypes\BaseApi.Module\BaseApi.Module.csproj" />
+      <ProjectReference Include="..\..\Infrastructure\BaseTypes\BaseTypes\BaseTypes.csproj" />
+    </ItemGroup>
+
+</Project>
