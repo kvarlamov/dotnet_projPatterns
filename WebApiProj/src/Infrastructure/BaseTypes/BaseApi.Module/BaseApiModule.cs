@@ -21,6 +21,11 @@ public static class BaseApiModule
     {
         services.AddControllers(options => options.SuppressAsyncSuffixInActionNames = false);
         services.AddMemoryCache();
+        // services.AddDistributedMemoryCache();
+        services.AddStackExchangeRedisCache(options =>
+        {
+            options.Configuration = config.GetRedisConnectionString();
+        });
         services.AddSwaggerGen(config.GetSwaggerGenOptions);
         //services.AddSwaggerGen();
         services.AddHealthChecks();

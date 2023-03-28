@@ -7,4 +7,6 @@ public static class ConfigurationExtensionsConstants
     
     public const string SwaggerEndpointUrl = "SwaggerGenOptions:SwaggerEndpoint:Url";
     public const string SwaggerEndpointName = "SwaggerGenOptions:SwaggerEndpoint:Name";
+
+    public const string RedisConnectionString = "RedisOptions:RedisConnString";
 }

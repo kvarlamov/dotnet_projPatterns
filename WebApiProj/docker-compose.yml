@@ -19,8 +19,19 @@ services:
             - esnetwork
         depends_on:
             - elasticsearch
+    redisdb:
+        image: redis:6.2-alpine
+        restart: always
+        networks:
+            - esnetwork
+        ports:
+            - '6379:6379'
+        volumes: 
+            - cache:/usr/share/redis/data
 volumes:
     esdata:
+        driver: local
+    cache:
         driver: local
 networks:
     esnetwork:

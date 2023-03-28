@@ -21,4 +21,7 @@ public static class ConfigurationExtensions
 
     public static string GetSwaggerEndpointName(this IConfiguration configuration) => 
         configuration.GetValue<string>(ConfigurationExtensionsConstants.SwaggerEndpointName);
+
+    public static string GetRedisConnectionString(this IConfiguration configuration) =>
+        configuration.GetValue<string>(ConfigurationExtensionsConstants.RedisConnectionString);
 }
